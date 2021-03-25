@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @javi-saez
+- 👀 I’m interested in Machine Learning.
+- 🌱 I’m currently learning data science and Machine Learning.
+- 💞️ I’m looking to collaborate on projects related which these fields ,specially the field of social science.
+- 📫 How to reach me: u can send me a message to j.saezmarti@gmail.com
