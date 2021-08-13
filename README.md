@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javi-saez
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning data science and Machine Learning.
-- 💞️ I’m looking to collaborate on projects related whith behavioural sciences or economics, but I am open to any proposal in which my qualifications are useful.
+- 👀 I’m interested in Machine Learning
+- 🌱 After finishing my Master's degree in Data Science, I'm currently working as a business data analyst
+- 💞️ I’m looking to collaborate on projects related whith ML
 - 📫 How to reach me: u can send me a message to j.saezmarti@gmail.com
