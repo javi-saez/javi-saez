@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javi-saez
-- 👀 I’m interested in Machine Learning
-- 🌱 After finishing my Master's degree in Data Science, I'm currently working as a business data analyst
-- 💞️ I’m looking to collaborate on projects related whith ML
+- 👀 I’m interested in Machine Learning and software development
+- After finishing my Master's degree in Data Science, I'm currently working as a business data analyst
+- I’m looking to collaborate on projects related whith ML
 - 📫 How to reach me: u can send me a message to j.saezmarti@gmail.com
